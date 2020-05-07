@@ -66,6 +66,6 @@ describe('Gallery', () => {
     const wrapper = mount(Gallery, { store, localVue });
     wrapper.find(".delete").trigger("click");
     await wrapper.vm.$nextTick();
-    expect(actions.deleteItem).not.toHaveBeenCalled()();
+    expect(actions.deleteItem).toHaveBeenCalled();
   });
 });

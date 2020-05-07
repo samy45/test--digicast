@@ -1,0 +1,145 @@
+{
+    "items": [
+        {
+            "id": 31,
+            "title": "New York",
+            "img": "city-01.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 2,
+            "title": "Los Angeles",
+            "img": "city-02.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 3,
+            "title": "Toronto",
+            "img": "city-03.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 4,
+            "title": "Moscow",
+            "img": "city-04.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 5,
+            "title": "Paris",
+            "img": "city-05.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 6,
+            "title": "Chicago",
+            "img": "city-06.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 7,
+            "title": "Montreal",
+            "img": "city-07.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 8,
+            "title": "Vancouver",
+            "img": "city-08.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 9,
+            "title": "Rio",
+            "img": "city-09.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 10,
+                "title": "San Francisco",
+            "img": "city-10.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 11,
+            "title": "London",
+            "img": "city-11.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 12,
+            "title": "Barcelona",
+            "img": "city-12.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 13,
+            "title": "Rome",
+            "img": "city-13.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 14,
+            "title": "Tokyo",
+            "img": "city-14.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 15,
+            "title": "Hong Kong",
+            "img": "city-15.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 16,
+            "title": "Cape Town",
+            "img": "city-16.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 17,
+            "title": "Sao Paulo",
+            "img": "city-17.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 18,
+            "title": "Havana",
+            "img": "city-18.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 19,
+            "title": "Dubai",
+            "img": "city-19.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        },
+        {
+            "id": 20,
+            "title": "Washington",
+            "img": "city-20.jpg",
+            "date": "2019-02-52 24:23:52",
+            "isSelected": false
+        }
+
+    ]
+}
